@@ -2,18 +2,18 @@ $color: #00cc99;
 
 .header {
   height: 200px;
-  background-color: #00cc99;
+  background-color: #5a8ace;
 }
 
 .footer {
   height: 200px;
-  background-color: #00cc99;
+  background-color: #dd386c;
 }
 
 .box {
   width: 100px;
   height: 100px;
-  background-color: red;
+  background-color: rgb(247, 136, 11);
   display: flex;
   transition: all 0.5s;
   &:hover {
